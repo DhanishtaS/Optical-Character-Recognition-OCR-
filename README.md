@@ -21,3 +21,12 @@ Save the extracted text to a file.
 Programming Languages: Python
 Libraries: pytesseract, OpenCV, PIL/Pillow, Tkinter/PyQt
 OCR Engine: Tesseract
+
+# OCR Works with jpg:-
+![image](https://github.com/user-attachments/assets/12da115e-7482-4a17-8e79-bdbdadb8acb7)
+![image](https://github.com/user-attachments/assets/d7d955d0-8491-4d63-89ae-c4223e8e1381)
+
+# OCR work with png:-
+![image](https://github.com/user-attachments/assets/2f468f5c-b829-40d3-9ef8-e98596d5aa18)
+
+
